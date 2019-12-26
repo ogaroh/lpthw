@@ -1,3 +1,7 @@
+# PS :
+# this exercise combines effort from ex12 too, which means:
+# i'll skip it because it's basically the same shit
+
 name = input("What's your name? ")
 age = int(input("How about your age? "))
 height = float(input("How tall are you? (Centimeters) "))
