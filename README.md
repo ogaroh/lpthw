@@ -6,7 +6,7 @@ Learning Python The Hard Way - through instruction, practice and more practice.
 # -----------------------
 `Hey`
 `I'm Erick`
-`Bye!`
+`Enjoy reading this reeally boring README.md file`
 # -----------------------
 
 # Poem - Starry Nights
