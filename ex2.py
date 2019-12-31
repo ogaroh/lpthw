@@ -5,7 +5,6 @@
 
 #  any text after the octothorpe (#) is ignored
 
-print("this will run") 
+print("this will run")
 
 # print("this will not run or be displayed in the terminal")
-
